@@ -1,6 +1,5 @@
-# 🌊 Lee Yubin
+# 🌊 Lee Yubin (BE)
 
-## Backend Engineer
 #### 의료 인공지능 연구원 ➡️ 백엔드 개발자
 #### **신속한 문제 해결**에 즐거움을 느끼는 개발자입니다.
 
