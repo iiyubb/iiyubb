@@ -13,7 +13,7 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@iiyub)
 
 </div>
-
+<br>
 
 ## 🛠 Tech Stacks
 ### Backend
@@ -62,7 +62,6 @@
 
 <br>
 
-
 ## 📚 Projects
 ### 모두의 플레이 - 콘텐츠 평점 및 큐레이션 플랫폼 `2025.06 ~ 2025.07` (5명)
 > **Tech:** `Java` `Spring Boot` `JPA` `PostgreSQL` `Docker` `AWS` `OpenSearch` `React` `TypeScript`  
@@ -84,6 +83,7 @@
 - 다양한 정렬 조건에 따른 커서 페이지네이션 구현
 - JPQL → QueryDSL 전환으로 쿼리 성능 및 가독성 개선
 
+<br>
 
 ## 💼 Career
 - **(주) 제이엘케이** | 의료AI사업부 캔서파트 연구원 `2024.01 ~ 2024.10`
@@ -93,6 +93,7 @@
 - **(주) 제이엘케이** | 의료AI사업부 캔서파트 인턴  `2023.08 ~ 2023.12`
     - 의료 진단 AI 모델 개발 및 성능 고도화
 
+<br>
 
 ## 🎯 Activities
 ### 🎓 Education
@@ -106,6 +107,7 @@
 ### 🔊 Language
 - **TOEIC Speaking IH(140)** | 한국 TOEIC 위원회 `2025.09.06`
 
+<br>
 
 ## 📈 GitHub Stats
 <div align="center">
@@ -113,7 +115,7 @@
 ![Yubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiyubb&show_icons=true&theme=tokyonight)
 
 </div>
-
+<br>
 
 ## 🏆 Algorithm Stats
 <div align="center">
