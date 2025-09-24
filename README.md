@@ -81,7 +81,7 @@
 > **Tech:** `Java` `Spring Boot` `JPA` `PostgreSQL` `Docker`  
 > **Role:** Backend Developer, Presenter
 - 다양한 정렬 조건에 따른 커서 페이지네이션 구현
-- JPQL → QueryDSL 전환으로 쿼리 성능 및 가독성 개선
+- JPQL → QueryDSL 전환으로 쿼리 가독성 및 유지보수성 향성
 
 <br>
 
