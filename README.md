@@ -63,7 +63,7 @@
 <br>
 
 ## 📚 Projects
-### [모두의 플레이](https://github.com/sb01-mopl-team03/repositories) - 콘텐츠 평점 및 큐레이션 플랫폼 `2025.06 ~ 2025.07` (5명)
+### [모두의 플레이](https://github.com/orgs/sb01-mopl-team03/repositories) - 콘텐츠 평점 및 큐레이션 플랫폼 `2025.06 ~ 2025.07` (5명)
 > **Tech:** `Java` `Spring Boot` `JPA` `PostgreSQL` `Docker` `AWS` `OpenSearch` `React` `TypeScript`  
 > **Role:** Team Leader, Backend Developer, Presenter
 
@@ -71,7 +71,7 @@
 - AWS ECS 배포 환경에서 OpenSearch 연결 트러블슈팅 및 성능 최적화
 - 바이브 코딩을 통한 프론트 엔드 개발 및 UI/UX 구현
 
-### [모두의 뉴스](https://github.com/sb01-monew-team03/repositories) - 소셜 기능을 갖춘 맞춤형 뉴스 서비스 `2025.04 ~ 2025.05` (5명)
+### [모두의 뉴스](https://github.com/orgs/sb01-monew-team03/repositories) - 소셜 기능을 갖춘 맞춤형 뉴스 서비스 `2025.04 ~ 2025.05` (5명)
 > **Tech:** `Java` `Spring Boot` `JPA` `PostgreSQL` `MongoDB` `Docker` `AWS`  
 > **Role:** Team Leader, Backend Developer, Presenter
 - PostgreSQL과 MongoDB를 사용해 이중 데이터베이스 시스템 구축
