@@ -7,7 +7,8 @@
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logoColor=white)](https://github.com/user-attachments/files/22497408/leeyubin_resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logoColor=white)](https://github.com/user-attachments/files/22922701/BE_._.pdf)
+
 [![Gmail](https://img.shields.io/badge/iiyubb.dev@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:iiyubb.dev@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@iiyub)
 
