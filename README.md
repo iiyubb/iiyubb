@@ -8,7 +8,7 @@
 <div align="center">
 
 [![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logoColor=white)](https://github.com/user-attachments/files/22922711/BE_LeeYubin.pdf)
-[![Portfolio](https://img.shields.io/badge/📁_Portfolio-4285F4?style=for-the-badge&logoColor=white)](https://rightful-teacher-7d1.notion.site/28879af88c5d80a0a837f349ac1f0bbf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rightful-teacher-7d1.notion.site/28879af88c5d80a0a837f349ac1f0bbf)
 [![Gmail](https://img.shields.io/badge/iiyubb.dev@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:iiyubb.dev@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@iiyub)
 
